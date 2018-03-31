@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<players>
-    <player name="贝露球" DNF="ラブライブ！" num="992392434" first="" part="山西一"/>
-    <player name="沉默寡言" DNF="永恒唯爱" num="2925663892" first="承守" part=""/>
-    <player name="沉默寡言" DNF="与你到永远" num="2925663892" first="" part=""/>
-    <player name="CrazyScott" DNF="CrazyWind" num="2783819380" first="" part=""/>
-    <player name="玛丽耶·谢尔" DNF="卢森海德" num="605897725" first="玛丽耶·谢尔" part=""/>
-    <player name="木之本樱" DNF="Kinomoto sakura" num="3225404027" first="" part="北京二"/>
+<players> 
+	<player name="贝露球" DNF="ラブライブ！" num="992392434" first="" part="山西一"/>  
+    <player name="锤死卡比兽" DNF="萌道保护协会" num="1666028518" first="楪祈" part="河北一"/>
+    <player name="CrazyScott" DNF="CrazyWind" num="2783819380" first="CrazyScott" part="河南二"/>
+    <player name="魂魄妖梦(战法下水道)" DNF="精灵战斗团" num="656364841" first="" part=""/>
+    <player name="卡比兽真卡" DNF="梦里不觉秋已深" num="965585578" first="嘤嘤怪" part="河北一"/>
+    <player name="老公" DNF="不问过往于陌路" num="1042800264" first="℡黄昏轻语灬" part="东北二"/>
+    <player name="玛丽耶·谢尔" DNF="卢森海德" num="605897725" first="玛丽耶·谢尔" part="吉林"/>
+    <player name="木之本樱" DNF="Kinomoto sakura" num="3225404027" first="木之本 樱" part="北京二"/>
     <player name="夕莉" DNF="百万loli过大江" num="542319505" first=" 觋夕莉" part="山西一"/>
-    <player name="援素-木之本樱" DNF="相知山庄" num="2461189785" first="" part=""/>
+    <player name="援素-木之本樱" DNF="相知山庄" num="2461189785" first="百夜灬米伽尔" part="河南一"/>
     <player name="援-蓝" DNF="八云蓝的后宫" num="2856986197" first="隙间妖的式神" part="山东一"/>
-    <player name="援-若鹭姬" DNF="虚幻与现实的境界" num="763326315" first="依神紫苑" part="华北三"/>
-    <player name="Reisen Udongein Inaba" DNF="讚州小学勇者部" num="1904955008" first="~~Sunshine" part="东北三"/>
+    <player name="援-蓝" DNF="小女今年17岁" num="2856986197" first="神隐の主犯" part="山东二"/>
+    <player name="援-若鹭姬" DNF="虚幻与现实的境界" num="763326315" first="若鹭姬" part="华北三"/>
+    <player name="Reisen Udongein Inaba" DNF="讚州小学勇者部" num="1904955008" first="﹏Sunshine" part="东北三"/>
+    <player name="性感卡恩在线援交" DNF="Hannibal" num="1013738350" first="顶尖三保1" part="东北二"/>
+   <!-- <player name="" DNF="" num="" first="" part=""/>
     <player name="" DNF="" num="" first="" part=""/>
     <player name="" DNF="" num="" first="" part=""/>
     <player name="" DNF="" num="" first="" part=""/>
     <player name="" DNF="" num="" first="" part=""/>
-    <player name="" DNF="" num="" first="" part=""/>
+    <player name="" DNF="" num="" first="" part=""/> -->
 </players>
